@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinav067
 - 👀 I’m interested in problem solving 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Comparative programmer
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me Just text me on Linkedin:-https://www.linkedin.com/in/abhinav-pandey-b268141bb/
 
 <!---
